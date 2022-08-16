@@ -1,2 +1,2 @@
 # 3D-reconstruction-and-Geometric-modelling
-## This repo contains all the recent developments on 3D image modelling + code repos
+## This repo contains our under-going research on 3D face & body reconstruction modeling
